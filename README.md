@@ -7,7 +7,7 @@ This project is licensed under the Apache 2.0 License.
 
 Redistribution or modification is allowed, but falsely claiming authorship or removing the original author's credits is prohibited.
 
-===========================================================================================================
+============================================================================================
 # Implementation CNN By Tensorflow For CIFAR-10 classification.
 [Step 1] Setup Environment : Use Google Colab GPU
 
