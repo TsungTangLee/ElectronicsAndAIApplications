@@ -33,22 +33,22 @@ Redistribution or modification is allowed, but falsely claiming authorship or re
 
 ● Loss
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ff2a874a-9182-4996-bcde-3efaa512aa27" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ff2a874a-9182-4996-bcde-3efaa512aa27" />
 
 ● Accuracy
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/68950213-8fd9-407b-9425-f514f232ff88" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/68950213-8fd9-407b-9425-f514f232ff88" />
 
 
 <No Early Stopping>
 
 ● Loss
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8de52747-a6a7-4763-9fd8-26a00918d585" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8de52747-a6a7-4763-9fd8-26a00918d585" />
 
 ● Accuracy
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/916b160f-146e-4db2-babd-a34894c39ae5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/916b160f-146e-4db2-babd-a34894c39ae5" />
 
 # Copy Model From Google Colab To Google Drive
 [Step 1] Mount Google Drive
